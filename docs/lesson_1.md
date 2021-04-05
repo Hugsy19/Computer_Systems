@@ -1,4 +1,4 @@
-# 一 计算机系统概述
+# 一、计算机系统概述
 
 ## 冯.诺依曼结构主要思想
 
@@ -8,7 +8,7 @@
 - 第一台存储程序计算机：1949年，`EDSAC（Electronic Delay Storage Auto-matic Calculator）`；
 - 1951年，冯.诺伊曼等人在普林斯顿高等研究院（the Institute of Advance Study at Princeton, IAS）设计的存储程序计算机`IAS`设计完成：
   - 该计算机结构被称为冯.诺依曼结构；
-  - 该结构中最重要的思想为存储程序（Stored-program；
+  - 该结构中最重要的思想为存储程序（Stored-program）；
   - 冯.诺依曼结构的计算机被称为冯.诺伊曼机器（Von Neumann Machine)；
   - IAS是现代计算机的原型机。
 
